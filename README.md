@@ -9,5 +9,6 @@ Use this repository to help make the 2020-21 remote season better.  These files 
   <li>Computer Aided Design</li>
   <li>Strategy</li>
 </ul>
+
 ### Coding Repositories
 ### Team Media
