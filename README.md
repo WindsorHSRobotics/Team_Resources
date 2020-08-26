@@ -1,4 +1,4 @@
-<img src="https://github.com/WindsorHSRobotics/Team_Resources/blob/master/Logos/WHSROBO.png?raw=true" width="235" height="235">
+<img src="https://github.com/WindsorHSRobotics/Team_Resources/blob/master/Logos/WHSROBO.png?raw=true" width="225" height="225">
 
 # Team Resources
 
