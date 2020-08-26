@@ -6,7 +6,7 @@ Use this repository to help make the 2020-21 remote season better.  These files 
 
 ### Training Resources
 <ul>
-  <li><a href="https://github.com/WindsorHSRobotics/Team_Resources/blob/master/Coding">Coding</a></li>
+  <li><a href="https://github.com/WindsorHSRobotics/Team_Resources/blob/master/Coding.md">Coding</a></li>
   <li>Online Collaboration</li>
   <li>Computer Aided Design</li>
   <li>Strategy</li>
