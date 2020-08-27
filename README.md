@@ -18,6 +18,7 @@ Use this repository to help make the 2020-21 remote season better.  These files 
 ### Coding Repositories
 <ul>
   <li><a href="https://github.com/FIRST-Tech-Challenge/SkyStone">SkyStone Repository (2019-20)</a></li>
-</ul>
+  <li><a href="https://github.com/WindsorHSRobotics/team-5115_2017-18">Team 5115 (2017-18) Repository</a></li>
+  </ul>
 
 ### Team Media
