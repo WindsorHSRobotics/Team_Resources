@@ -4,7 +4,7 @@
 
 ## Repository for the Windsor High School First Tech Challenge Robotics Team
 ---
-Our robotics program is all about learning.  Whether you are taking <i>Introduction to Robotics</i> class or if you are the systems engineer for your competitive FTC team.  There is plenty to learn to help you get ready for college engineering and computer science.  Use this repository to help grow your knowledge and skills in robotics.  These examples offer a wide variety of valuable tools, code, media and text resosurces.
+Our robotics program is all about learning.  Whether you are taking <i>Introduction to Robotics</i> class or if you are the systems engineer for your competitive FTC team, there is plenty to learn to help you get ready for college engineering and computer science.  Use this repository to help grow your knowledge and skills in robotics.  These examples offer a wide variety of valuable tools, code, media and text resosurces.
 
 ### Learning the Game
 
