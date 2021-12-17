@@ -29,7 +29,7 @@ There are many web sources out there that will help you learn how to compete in 
 ### Getting Ready to Compete
 
 - [Engineering Portfolio Requirements](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/game-manual-part-1-traditional-events.pdf) Go to page 45 - Section 9.3 of Game Manual 1
-- [Engineeing Portfolio Outstanding Examples and Guidance]()
+- [Engineeing Portfolio Outstanding Examples and Guidance](https://github.com/WindsorHSRobotics/Team_Resources/blob/master/Engineering_Portfolio.md)
 
 ### Technology Resources
 
