@@ -30,6 +30,12 @@ There are many web sources out there that will help you learn how to compete in 
 
 - [Engineering Portfolio Requirements](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/game-manual-part-1-traditional-events.pdf) Go to page 45 - Section 9.3 of Game Manual 1
 - [Engineeing Portfolio Outstanding Examples and Guidance](https://github.com/WindsorHSRobotics/Team_Resources/blob/master/Engineering_Portfolio.md)
+- [Control Award Instructions](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/control-award-instructions.pdf)
+- [Control Award Application for Traditional Events](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/control-award-submission-form-traditional.pdf)
+- [Robot Inspection Checklist](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-inspection-checklist.pdf)
+- [Field Inspection Checklist](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/field-inspection-checklist.pdf)
+- [Judging Feedback Form](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/judging-feedback-request-form.pdf)
+- [REV Hardware Cliend (for modifying Control Hub configurations)](https://docs.revrobotics.com/rev-hardware-client/)
 
 ### Technology Resources
 
