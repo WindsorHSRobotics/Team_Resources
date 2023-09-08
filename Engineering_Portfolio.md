@@ -8,6 +8,8 @@ While the format and ease of navigating your portfolio are important, the judges
 
 ### These and many other great examples may be found by searching for them on the internet
 
- -[Team 16091 Skystone Portfolio](https://twcarobotics.files.wordpress.com/2021/12/16091-engineering-portfolio-west-high-qualifier-2021_redacted03.pdf)
-  
-  -[Team 10219 Skystone Portfolio](https://issuu.com/jackiegrasty/docs/10219_batteries_not_included_engineering_portfolio)
+ - [Engineering Portfolio Resource for FTC Teams](https://twcarobotics.files.wordpress.com/2023/01/engineering-portfolio-resource-for-first-tech-challenge-teams-v1.0.pdf)
+   
+ - [Project Robotics - Engineering Portfolio](https://projectrobotica.wiki/wiki/FTC:Engineering_Portfolio)
+   
+ - [Team 10219 Skystone Portfolio](https://issuu.com/jackiegrasty/docs/10219_batteries_not_included_engineering_portfolio)
