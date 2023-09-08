@@ -25,7 +25,6 @@ There are many web sources out there that will help you learn how to compete in 
 ### Learning from the past - Coding Repositories of Previous WHS Teams
 
 - [Team 10448 (2021-22) Repository](https://github.com/GramGra07/FtcRobotController-10448-2021)
-- [SkyStone Repository](https://github.com/FIRST-Tech-Challenge/SkyStone)
 - [Team 5115 2017-18 Repository](https://github.com/WindsorHSRobotics/team-5115_2017-18)
 
 ### Getting Ready to Compete
